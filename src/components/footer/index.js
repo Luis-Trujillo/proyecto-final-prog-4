@@ -6,7 +6,7 @@ import React from "react";
 function footer (){
     return(
         <dvi>
-            <h1>Esta parte aparecerá el contenido del footer</h1>
+            <h1 className="probar">Esta parte aparecerá el contenido del footer</h1>
         </dvi>
     );
 

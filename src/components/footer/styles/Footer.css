@@ -1,6 +1,9 @@
 .App__footer {
-    background-color: #0f4fd0;
-    color: blueviolet;
+    background-color: #0fd03c;
+    color: rgb(13, 13, 13);
     text-align: center;
-    
+}
+
+.probar{
+    font-size: 20px;
 }

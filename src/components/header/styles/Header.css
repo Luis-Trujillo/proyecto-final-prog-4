@@ -1,0 +1,18 @@
+.App__header{
+    height: 500px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+.header__container-foto-perfil{
+
+    height: 100px;
+}
+
+.header__container-links{
+    text-align: center;
+    font-size: 100px;
+    padding-left: 3cm;
+}
+

@@ -1,13 +1,15 @@
 //Se importa libreria de react 
 import React from "react";
-import Navbar from '../header/helpers/navbar/index';
+import Navbar from './navbar/index';
 
 //Se genera componente
 function header(){
     return(
-        <div> 
+        <div>
             <Navbar/>
+            
         </div>
+        
     );
 };
 export default header;
