@@ -1,18 +1,33 @@
 .App__header{
-    height: 500px;
+    width: 100%;
+    height: auto;
     background-color: greenyellow;
     text-align: center;
 }
 
-
-.header__container-foto-perfil{
-
-    height: 100px;
+.App__header-navbar{
+    text-align: center;
+    background-color: azure;
 }
 
-.header__container-links{
+.navbar__container-links{
+ text-align: center;
+ margin-left: 4cm;
+ background-color: yellowgreen;
+ font-size: 20px;
+}
+
+.header__container-foto-perfil{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    margin-left: 1cm;
+}
+
+.header__container-links--a{
     text-align: center;
-    font-size: 100px;
-    padding-left: 3cm;
+    text-decoration: none;
+    color: black;
+    padding-left: 1cm;
 }
 
